@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\bin\Debug\net6.0\TollCalculator.deps.json
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\bin\Debug\net6.0\TollCalculator.dll
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\bin\Debug\net6.0\TollCalculator.pdb
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\obj\Debug\net6.0\TollCalculator.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\obj\Debug\net6.0\TollCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\obj\Debug\net6.0\TollCalculator.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\obj\Debug\net6.0\TollCalculator.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\obj\Debug\net6.0\TollCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\obj\Debug\net6.0\TollCalculator.dll
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\obj\Debug\net6.0\refint\TollCalculator.dll
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\obj\Debug\net6.0\TollCalculator.pdb
+C:\Users\sgiorgadze\Source\Repos\abstract-classes-upskill\TollCalculator\obj\Debug\net6.0\ref\TollCalculator.dll
