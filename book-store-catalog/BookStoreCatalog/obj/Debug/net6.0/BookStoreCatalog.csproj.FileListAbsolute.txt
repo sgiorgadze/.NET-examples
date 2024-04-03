@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\Source\Repos\book-store-catalog\BookStoreCatalog\obj\Debug\net6.0\BookStoreCatalog.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\book-store-catalog\BookStoreCatalog\obj\Debug\net6.0\BookStoreCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\book-store-catalog\BookStoreCatalog\obj\Debug\net6.0\BookStoreCatalog.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\book-store-catalog\BookStoreCatalog\obj\Debug\net6.0\BookStoreCatalog.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\book-store-catalog\BookStoreCatalog\obj\Debug\net6.0\BookStoreCatalog.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\source\repos\book-store-catalog\BookStoreCatalog\bin\Debug\net6.0\BookStoreCatalog.deps.json
+C:\Users\sgiorgadze\source\repos\book-store-catalog\BookStoreCatalog\bin\Debug\net6.0\BookStoreCatalog.dll
+C:\Users\sgiorgadze\source\repos\book-store-catalog\BookStoreCatalog\bin\Debug\net6.0\BookStoreCatalog.pdb
+C:\Users\sgiorgadze\source\repos\book-store-catalog\BookStoreCatalog\obj\Debug\net6.0\BookStoreCatalog.dll
+C:\Users\sgiorgadze\source\repos\book-store-catalog\BookStoreCatalog\obj\Debug\net6.0\refint\BookStoreCatalog.dll
+C:\Users\sgiorgadze\source\repos\book-store-catalog\BookStoreCatalog\obj\Debug\net6.0\BookStoreCatalog.pdb
+C:\Users\sgiorgadze\source\repos\book-store-catalog\BookStoreCatalog\obj\Debug\net6.0\ref\BookStoreCatalog.dll

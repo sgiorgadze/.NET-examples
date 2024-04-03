@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwsIvtf9yOuqUbhYBGLmSGSOB67Eo9VH1tVPVkOQTl5eGJ5hCKVBQWVyY+fpm4wj4jro6ZEyhz1TILHU79TEVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgiorgadze\\Source\\Repos\\create-table-of-records-reflection\\TableOfRecords\\TableOfRecords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgiorgadze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

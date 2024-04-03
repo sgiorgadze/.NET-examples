@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\Users\sgiorgadze\Source\Repos\delegates-and-lambdas\Delegates\obj\Debug\net6.0\ref\Delegates.dll
