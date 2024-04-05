@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hm9hSGttkyi5wbkhg5+j6hUQUpJw7niz7JDYLKKgnTnpR5kF8eZE8j4tEPi4tYBexPO4pznzGjxQPukqHzCjvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgiorgadze\\source\\repos\\formatting-strings\\FormattingStrings\\FormattingStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgiorgadze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

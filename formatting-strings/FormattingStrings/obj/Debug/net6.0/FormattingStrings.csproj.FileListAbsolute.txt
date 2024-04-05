@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\bin\Debug\net6.0\FormattingStrings.deps.json
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\bin\Debug\net6.0\FormattingStrings.dll
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\bin\Debug\net6.0\FormattingStrings.pdb
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\obj\Debug\net6.0\FormattingStrings.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\obj\Debug\net6.0\FormattingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\obj\Debug\net6.0\FormattingStrings.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\obj\Debug\net6.0\FormattingStrings.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\obj\Debug\net6.0\FormattingStrings.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\obj\Debug\net6.0\FormattingStrings.dll
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\obj\Debug\net6.0\refint\FormattingStrings.dll
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\obj\Debug\net6.0\FormattingStrings.pdb
+C:\Users\sgiorgadze\Source\Repos\formatting-strings\FormattingStrings\obj\Debug\net6.0\ref\FormattingStrings.dll
