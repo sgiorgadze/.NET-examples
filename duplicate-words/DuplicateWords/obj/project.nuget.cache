@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZJH+llCRwdMzsLqmWzs1xlSlXOL7JOHbVnyhs2Xk/P7fsnZVwpquSpla1wlCUdSEg04Td5DS4TUzPnJoNxD7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgiorgadze\\source\\repos\\duplicate-words\\DuplicateWords\\DuplicateWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgiorgadze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

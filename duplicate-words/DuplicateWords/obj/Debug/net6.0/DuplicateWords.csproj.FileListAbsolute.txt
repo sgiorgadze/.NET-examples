@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\bin\Debug\net6.0\DuplicateWords.deps.json
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\bin\Debug\net6.0\DuplicateWords.dll
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\bin\Debug\net6.0\DuplicateWords.pdb
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\obj\Debug\net6.0\DuplicateWords.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\obj\Debug\net6.0\DuplicateWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\obj\Debug\net6.0\DuplicateWords.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\obj\Debug\net6.0\DuplicateWords.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\obj\Debug\net6.0\DuplicateWords.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\obj\Debug\net6.0\DuplicateWords.dll
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\obj\Debug\net6.0\refint\DuplicateWords.dll
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\obj\Debug\net6.0\DuplicateWords.pdb
+C:\Users\sgiorgadze\Source\Repos\duplicate-words\DuplicateWords\obj\Debug\net6.0\ref\DuplicateWords.dll
