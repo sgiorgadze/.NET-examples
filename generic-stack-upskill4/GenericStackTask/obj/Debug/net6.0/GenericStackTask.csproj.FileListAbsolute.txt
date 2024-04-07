@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\bin\Debug\net6.0\GenericStackTask.deps.json
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\bin\Debug\net6.0\GenericStackTask.dll
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\bin\Debug\net6.0\GenericStackTask.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\obj\Debug\net6.0\GenericStackTask.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\obj\Debug\net6.0\GenericStackTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\obj\Debug\net6.0\GenericStackTask.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\obj\Debug\net6.0\GenericStackTask.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\obj\Debug\net6.0\GenericStackTask.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\obj\Debug\net6.0\GenericStackTask.dll
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\obj\Debug\net6.0\refint\GenericStackTask.dll
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\obj\Debug\net6.0\GenericStackTask.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-stack-upskill\GenericStackTask\obj\Debug\net6.0\ref\GenericStackTask.dll
