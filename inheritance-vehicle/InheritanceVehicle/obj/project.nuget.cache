@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHkG5fEU3oAwPRlfAmPg+21o84VCtpY+SoQfwffwpct+4c2WHr4N/o/Hyz6ecYw1nSekg2avQZ8cbWTySOEc9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgiorgadze\\Source\\Repos\\inheritance-vehicle\\InheritanceVehicle\\InheritanceVehicle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgiorgadze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
