@@ -1,0 +1,354 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods.Tests\\GenericMethods.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\Comparators\\Comparators.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\Comparators\\Comparators.csproj",
+        "projectName": "Comparators",
+        "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\Comparators\\Comparators.csproj",
+        "packagesPath": "C:\\Users\\sgiorgadze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\Comparators\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sgiorgadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\DoubleTransformer\\DoubleTransformer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\DoubleTransformer\\DoubleTransformer.csproj",
+        "projectName": "DoubleTransformer",
+        "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\DoubleTransformer\\DoubleTransformer.csproj",
+        "packagesPath": "C:\\Users\\sgiorgadze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\DoubleTransformer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sgiorgadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\GenericMethods.csproj": {
+                "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\GenericMethods.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods.Tests\\GenericMethods.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods.Tests\\GenericMethods.Tests.csproj",
+        "projectName": "GenericMethods.Tests",
+        "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods.Tests\\GenericMethods.Tests.csproj",
+        "packagesPath": "C:\\Users\\sgiorgadze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sgiorgadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\Comparators\\Comparators.csproj": {
+                "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\Comparators\\Comparators.csproj"
+              },
+              "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\DoubleTransformer\\DoubleTransformer.csproj": {
+                "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\DoubleTransformer\\DoubleTransformer.csproj"
+              },
+              "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\GenericMethods.csproj": {
+                "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\GenericMethods.csproj"
+              },
+              "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\IntegerPredicate\\IntegerPredicate.csproj": {
+                "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\IntegerPredicate\\IntegerPredicate.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.SDK": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\GenericMethods.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\GenericMethods.csproj",
+        "projectName": "GenericMethods",
+        "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\GenericMethods.csproj",
+        "packagesPath": "C:\\Users\\sgiorgadze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sgiorgadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\IntegerPredicate\\IntegerPredicate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\IntegerPredicate\\IntegerPredicate.csproj",
+        "projectName": "IntegerPredicate",
+        "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\IntegerPredicate\\IntegerPredicate.csproj",
+        "packagesPath": "C:\\Users\\sgiorgadze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\IntegerPredicate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sgiorgadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\GenericMethods.csproj": {
+                "projectPath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\GenericMethods\\GenericMethods.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

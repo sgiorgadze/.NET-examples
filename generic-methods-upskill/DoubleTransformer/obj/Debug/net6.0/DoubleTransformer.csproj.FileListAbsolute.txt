@@ -1,0 +1,15 @@
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\bin\Debug\net6.0\DoubleTransformer.deps.json
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\bin\Debug\net6.0\DoubleTransformer.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\bin\Debug\net6.0\DoubleTransformer.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\bin\Debug\net6.0\GenericMethods.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\bin\Debug\net6.0\GenericMethods.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\DoubleTransformer.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\DoubleTransformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\DoubleTransformer.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\DoubleTransformer.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\DoubleTransformer.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\DoubleTransformer.csproj.CopyComplete
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\DoubleTransformer.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\refint\DoubleTransformer.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\DoubleTransformer.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\DoubleTransformer\obj\Debug\net6.0\ref\DoubleTransformer.dll

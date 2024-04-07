@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwMVbp9AwCOO4mp0emTQNggEC3Xm+GyYUpsmUz5Y4GHHfzqFvkSCECzkZsuGlW3hlxMq6Y89X8jB0oey5jYIrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgiorgadze\\source\\repos\\generic-methods-upskill\\Comparators\\Comparators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgiorgadze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

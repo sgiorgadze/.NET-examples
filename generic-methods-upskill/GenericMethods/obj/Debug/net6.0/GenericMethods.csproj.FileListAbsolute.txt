@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\bin\Debug\net6.0\GenericMethods.deps.json
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\bin\Debug\net6.0\GenericMethods.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\bin\Debug\net6.0\GenericMethods.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\obj\Debug\net6.0\GenericMethods.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\obj\Debug\net6.0\GenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\obj\Debug\net6.0\GenericMethods.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\obj\Debug\net6.0\GenericMethods.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\obj\Debug\net6.0\GenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\obj\Debug\net6.0\GenericMethods.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\obj\Debug\net6.0\refint\GenericMethods.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\obj\Debug\net6.0\GenericMethods.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\GenericMethods\obj\Debug\net6.0\ref\GenericMethods.dll

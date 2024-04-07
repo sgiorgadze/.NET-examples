@@ -1,0 +1,15 @@
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\bin\Debug\net6.0\IntegerPredicate.deps.json
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\bin\Debug\net6.0\IntegerPredicate.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\bin\Debug\net6.0\IntegerPredicate.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\bin\Debug\net6.0\GenericMethods.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\bin\Debug\net6.0\GenericMethods.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\IntegerPredicate.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\IntegerPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\IntegerPredicate.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\IntegerPredicate.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\IntegerPredicate.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\IntegerPredicate.csproj.CopyComplete
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\IntegerPredicate.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\refint\IntegerPredicate.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\IntegerPredicate.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\IntegerPredicate\obj\Debug\net6.0\ref\IntegerPredicate.dll

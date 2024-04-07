@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\bin\Debug\net6.0\Comparators.deps.json
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\bin\Debug\net6.0\Comparators.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\bin\Debug\net6.0\Comparators.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\obj\Debug\net6.0\Comparators.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\obj\Debug\net6.0\Comparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\obj\Debug\net6.0\Comparators.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\obj\Debug\net6.0\Comparators.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\obj\Debug\net6.0\Comparators.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\obj\Debug\net6.0\Comparators.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\obj\Debug\net6.0\refint\Comparators.dll
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\obj\Debug\net6.0\Comparators.pdb
+C:\Users\sgiorgadze\Source\Repos\generic-methods-upskill\Comparators\obj\Debug\net6.0\ref\Comparators.dll

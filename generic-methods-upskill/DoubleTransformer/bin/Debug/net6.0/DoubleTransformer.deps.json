@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DoubleTransformer/1.0.0": {
+        "dependencies": {
+          "GenericMethods": "1.0.0"
+        },
+        "runtime": {
+          "DoubleTransformer.dll": {}
+        }
+      },
+      "GenericMethods/1.0.0": {
+        "runtime": {
+          "GenericMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoubleTransformer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenericMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
