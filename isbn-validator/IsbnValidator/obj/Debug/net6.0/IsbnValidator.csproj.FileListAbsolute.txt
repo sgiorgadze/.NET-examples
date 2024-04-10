@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\bin\Debug\net6.0\IsbnValidator.deps.json
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\bin\Debug\net6.0\IsbnValidator.dll
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\bin\Debug\net6.0\IsbnValidator.pdb
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.AssemblyInfo.cs
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.dll
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\refint\IsbnValidator.dll
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.pdb
+C:\Users\sgiorgadze\Source\Repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\ref\IsbnValidator.dll
