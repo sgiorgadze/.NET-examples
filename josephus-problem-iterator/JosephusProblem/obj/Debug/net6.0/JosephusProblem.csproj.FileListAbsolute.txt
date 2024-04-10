@@ -1,0 +1,12 @@
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\bin\Debug\net6.0\JosephusProblem.deps.json
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\bin\Debug\net6.0\JosephusProblem.dll
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\bin\Debug\net6.0\JosephusProblem.pdb
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\obj\Debug\net6.0\JosephusProblem.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\obj\Debug\net6.0\JosephusProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\obj\Debug\net6.0\JosephusProblem.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\obj\Debug\net6.0\JosephusProblem.AssemblyInfo.cs
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\obj\Debug\net6.0\JosephusProblem.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\obj\Debug\net6.0\JosephusProblem.dll
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\obj\Debug\net6.0\refint\JosephusProblem.dll
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\obj\Debug\net6.0\JosephusProblem.pdb
+C:\Users\sgiorgadze\source\repos\josephus-problem-iterator\JosephusProblem\obj\Debug\net6.0\ref\JosephusProblem.dll
