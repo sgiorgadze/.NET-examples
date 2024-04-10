@@ -1,0 +1,15 @@
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.deps.json
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.dll
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.pdb
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\bin\Debug\net6.0\FilterByPredicate.dll
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\bin\Debug\net6.0\FilterByPredicate.pdb
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.AssemblyReference.cache
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.AssemblyInfoInputs.cache
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.AssemblyInfo.cs
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.CoreCompileInputs.cache
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.CopyComplete
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.dll
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\refint\FilterByPalindromic.dll
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.pdb
+C:\Users\sgiorgadze\source\repos\interfaces-upskill\FilterByPalindromic\obj\Debug\net6.0\ref\FilterByPalindromic.dll

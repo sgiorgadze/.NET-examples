@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L071gv27itVCBrqwgY26nRdHZ4DUony1lICEStqM1fmMlsngvBZ+eHQ2229jB2Voy2lxOpMW9JxRvQWMlOmJ6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgiorgadze\\source\\repos\\interfaces-upskill\\FilterByPredicate\\FilterByPredicate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgiorgadze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
