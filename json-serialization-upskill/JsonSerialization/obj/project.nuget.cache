@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BEPi8HFZtXNMJjji/DNNmHMSfGPauK+bTI/gm0+CvbSnhUd0A6NAIitdjjMQRNz3tZmKkqkHcxPsx0NAfBibEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgiorgadze\\Source\\Repos\\json-serialization-upskill\\JsonSerialization\\JsonSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgiorgadze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

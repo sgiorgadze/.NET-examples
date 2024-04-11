@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4neMNeSVjnIO4dndTsNnFb8hN4UzWM5sGlgFoGsaPJUXBi4/j3TL0LWGHipnB7NPgtR4pCtYPtqJa+BEJJt9Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgiorgadze\\source\\repos\\lou-vui-date-code6\\LouVuiDateCode\\LouVuiDateCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgiorgadze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
